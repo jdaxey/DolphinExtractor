@@ -1,0 +1,42 @@
+Hi thanks for downloading DolphinExtracter!
+
+WARNGING:
+This program is still in development so if there is a bug report it on discord at axey.#5840 or send a email at axey.commercial@gmail.com
+
+You will need Python
+
+First this program includes:
+Wit
+Python Scripts (Extracters)
+
+
+
+How to use:
+Wii
+
+Extracter:
+First in the folder InputWii you gotta copy your game in .wbfs If your game is not in .wbfs Convert it with Wii Backup Manager.
+Next Open WiiExtracter.py and once is done in the folder OutputWii there is your extracted game.
+
+Composer:
+Copy the folder of the extracted game on the folder InputWii then run WiiCompose.py then insert the path of your extraxted game.
+Once its done in the folder OutputWii you will find the .wbfs of your modded/extracted game enjoy your mod/extracted game!
+
+
+
+GameCube:
+First in the folder InputGC you gotta copy your game in .iso (It should be a normal iso not compressed).
+Next Open GamecubeExtracter.py and once is done in the folder OutputWii there is your extracted game.
+
+Composer:
+Copy the folder of the extracted game on the folder InputGC then run GamecubeCompose.py then insert the path of your extraxted game.
+Once its done in the folder OutputGC you will find the .iso of your modded/extracted game enjoy your mod/extracted game!
+
+
+
+
+
+
+
+
+                                                                                                                                                                                               AxeyYT
